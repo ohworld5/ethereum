@@ -1,2 +1,2 @@
 # ethereum
-ethereum codeing
+ethereum coding
